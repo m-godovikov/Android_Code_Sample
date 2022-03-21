@@ -4,4 +4,6 @@
     <string name="enter_user_firstname_hint">Enter first name</string>
     <string name="enter_user_lastname_hint">Enter lastname</string>
     <string name="save_user_name_button">Save user</string>
+    <string name="saved_succesful">Saved successful!</string>
+    <string name="save_error">Error! Couldn\'t save</string>
 </resources>
