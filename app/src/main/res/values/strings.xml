@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Portfolio</string>
+    <string name="show_user_name_button">Show user name</string>
+    <string name="enter_user_firstname_hint">Enter first name</string>
+    <string name="enter_user_lastname_hint">Enter lastname</string>
+    <string name="save_user_name_button">Save user</string>
 </resources>
